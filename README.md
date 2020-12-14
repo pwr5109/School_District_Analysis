@@ -5,7 +5,7 @@ The school board requested to analyze the school district after changing the gra
 
 ## Results
 Here are the results of our analysis:
--	The replaced the grades of cheating students was ran the analysis again and we can see that THS has dropped by approximately 0.3 point.
+-	After replacing the grades of cheating students was ran the analysis again and we can see that THS has dropped by approximately 0.3 point.
 -	We noticed that schools with smaller budgets per student had better results than ones with bigger budgets
 -	We notice that Medium size schools perform a lot better than other size schools, based on all analysis and charts.
 -	THS dropped between 0.01 and 0.03 points on all average numbers, while the same type schools stayed unchanged
